@@ -36,8 +36,8 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 
 
 ##### PRINCIPES FONDAMENTAUX DU MACHINE LEARNING
-[Qu'est-ce que le Machine Learning](https://josephazar.net/blog/mldef.php)
-[Fonction objectif, fonction de perte et fonction de coût en Machine Learning](https://josephazar.net/blog/mlolcf.php)
+- [Qu'est-ce que le Machine Learning](https://josephazar.net/blog/mldef.php)
+- [Fonction objectif, fonction de perte et fonction de coût en Machine Learning](https://josephazar.net/blog/mlolcf.php)
 
 ##### REGRESSION LINÉAIRE
 - [Introduction à la régression linéaire simple](https://josephazar.net/blog/mlslreg.php)
