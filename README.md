@@ -14,7 +14,7 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 ### Android
 ##### ACTIVITÉS
 - [Votre premier projet sous Android](https://josephazar.net/blog/android_act1.php)
-
+- [Votre deuxième projet sous Android](https://josephazar.net/blog/android_act2.php)
 
 
 ### Python
