@@ -16,6 +16,9 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 - [Votre premier projet sous Android](https://josephazar.net/blog/android_act1.php)
 - [Votre deuxième projet sous Android](https://josephazar.net/blog/android_act2.php)
 
+##### MENUS ET FRAGMENTS
+- [Navigation Drawer et Fragments](https://josephazar.net/blog/android_nd1.php)
+
 
 ### Python
 - [Types de variables](https://josephazar.net/blog/pyvartypes.php)
