@@ -1,7 +1,7 @@
 # JosephAzarBlog-French
 Vous trouverez ci-après des liens vers des articles publiés sur mon blog personnel dans lequel je publie régulièrement sur différents sujets tels que le développement Web, machine/deep learning, et le traitement du signal.
 
-### Javascript
+### &#x1F534; Javascript
 - [Introduction basique à Javascript](https://josephazar.net/blog/jsintro.php)
 - [Variables et types de données](https://josephazar.net/blog/jsvar.php)
 - [Coercition de type en Javascript](https://josephazar.net/blog/jscoer.php)
@@ -11,7 +11,7 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 - [Les fonctions](https://josephazar.net/blog/jsfunctions.php)
 
 
-### Android
+### &#x1F534; Android
 ##### ACTIVITÉS
 - [Votre premier projet sous Android](https://josephazar.net/blog/android_act1.php)
 - [Votre deuxième projet sous Android](https://josephazar.net/blog/android_act2.php)
@@ -19,12 +19,11 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 ##### MENUS ET FRAGMENTS
 - [Navigation Drawer et Fragments](https://josephazar.net/blog/android_nd1.php)
 
-
-### Python
+### &#x1F534; Python
 - [Types de variables](https://josephazar.net/blog/pyvartypes.php)
 
 
-### Traitement de signal/séries temporelles
+### &#x1F534; Traitement de signal/séries temporelles
 ##### PRÉREQUIS
 - [Moyenne, Médiane, et Mode](https://josephazar.net/blog/stat1.php)
 
@@ -33,7 +32,7 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 - [Nombres complexes](https://josephazar.net/blog/dspcomplex.php)
 
 
-### Machine/Deep learning 
+### &#x1F534; Machine/Deep learning 
 ##### PRÉREQUIS
 - [Moyenne, Médiane, et Mode](https://josephazar.net/blog/stat1.php)
 
