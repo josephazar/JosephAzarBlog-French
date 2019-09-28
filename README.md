@@ -15,9 +15,25 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 ##### ACTIVITÉS
 - [Votre premier projet sous Android](https://josephazar.net/blog/android_act1.php)
 - [Votre deuxième projet sous Android](https://josephazar.net/blog/android_act2.php)
+- [Vues et groupes de vues](https://josephazar.net/blog/android_act3.php)
+- [Constraint Layout](https://josephazar.net/blog/android_act4.php)
+- [Cycle de vie de l'activité et gestion du changement d'orientation](https://josephazar.net/blog/android_actcv.php)
 
 ##### MENUS ET FRAGMENTS
+- [Introduction aux Fragments](https://josephazar.net/blog/android_fg1.php)
 - [Navigation Drawer et Fragments](https://josephazar.net/blog/android_nd1.php)
+
+##### STOCKAGE PERMANENT
+- [Introduction aux préférences partagées](https://josephazar.net/blog/android_sp1.php)
+- [Introduction aux bases de données SQLite](https://josephazar.net/blog/android_sqlite1.php)
+- [Projet SQLite et MVC](https://josephazar.net/blog/docs/SQLite.pdf)
+
+##### INTERNET ET CONNECTIVITÉ
+- [Effectuer des connexions HTTP sous Android](https://josephazar.net/blog/android_int1.php)
+
+##### MÉDIAS
+- [Animations simples, WebView et téléchargement d'images](https://josephazar.net/blog/docs/media1.pdf)
+
 
 ### &#x1F534; Python
 - [Types de variables](https://josephazar.net/blog/pyvartypes.php)
