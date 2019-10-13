@@ -15,6 +15,7 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 ##### ACTIVITÉS
 - [Votre premier projet sous Android](https://josephazar.net/blog/android_act1.php)
 - [Votre deuxième projet sous Android](https://josephazar.net/blog/android_act2.php)
+- [Architecture Android](https://josephazar.net/blog/android_arch.php)
 - [Vues et groupes de vues](https://josephazar.net/blog/android_act3.php)
 - [Constraint Layout](https://josephazar.net/blog/android_act4.php)
 - [Cycle de vie de l'activité et gestion du changement d'orientation](https://josephazar.net/blog/android_actcv.php)
