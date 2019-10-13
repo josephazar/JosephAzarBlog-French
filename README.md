@@ -36,7 +36,14 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 
 
 ### &#x1F534; Python
+##### PRINCIPES FONDAMENTAUX DE PYTHON
 - [Types de variables](https://josephazar.net/blog/pyvartypes.php)
+##### ALGÈBRE LINÉAIRE
+-[Introduction aux vecteurs](https://josephazar.net/blog/pyvectors1.php)
+
+### &#x1F534; R
+
+### &#x1F534; Matlab
 
 
 ### &#x1F534; Traitement de signal/séries temporelles
@@ -68,4 +75,5 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 ##### TENSORFLOW
 - [Introduction à Tensorflow (partie 1)](https://josephazar.net/blog/mltfintro.php)
 
+### &#x1F534; Cybersecurity
 
