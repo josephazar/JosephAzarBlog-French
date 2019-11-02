@@ -35,7 +35,7 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 
 ##### MÉDIAS
 - [Animations simples, WebView et téléchargement d'images](https://josephazar.net/blog/docs/media1.pdf)
-
+- [Choisissez une image de la galerie avec Android](https://josephazar.net/blog/android_media1.php)
 
 ### &#x1F534; Python
 ##### PRINCIPES FONDAMENTAUX DE PYTHON
@@ -73,7 +73,7 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 
 ##### RÉGRESSION LOGISTIQUE
 - [Un premier regard sur la classification linéaire et la régression logistique](https://josephazar.net/blog/mllogreg1.php)
-
+- [Introduction à la régression logistique avec Python](https://josephazar.net/blog/mllogreg2.php)
 ##### TENSORFLOW
 - [Introduction à Tensorflow (partie 1)](https://josephazar.net/blog/mltfintro.php)
 
