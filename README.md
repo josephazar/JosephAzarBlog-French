@@ -37,6 +37,10 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 - [Animations simples, WebView et téléchargement d'images](https://josephazar.net/blog/docs/media1.pdf)
 - [Choisissez une image de la galerie avec Android](https://josephazar.net/blog/android_media1.php)
 
+##### CARTES ET GÉOLOCALISATION
+- [Utilisation de cartes dans l'application Android](http://josephazar.net/blog/android_map1.php)
+
+
 ### &#x1F534; Python
 ##### PRINCIPES FONDAMENTAUX DE PYTHON
 - [Types de variables](https://josephazar.net/blog/pyvartypes.php)
