@@ -83,8 +83,8 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 - [Introduction à la régression logistique avec Python](https://josephazar.net/blog/mllogreg2.php)
 
 ##### RÉSEAUX DE NEURONES
--[Introduction aux réseaux de neurones](https://josephazar.net/blog/mlann1.php)
--[Implémentation d'un réseau de neurones à partir de zéro pour la classification binaire des images MNIST](https://josephazar.net/blog/mlann2.php)
+- [Introduction aux réseaux de neurones](https://josephazar.net/blog/mlann1.php)
+- [Implémentation d'un réseau de neurones à partir de zéro pour la classification binaire des images MNIST](https://josephazar.net/blog/mlann2.php)
 
 ##### TENSORFLOW
 - [Introduction à Tensorflow (partie 1)](https://josephazar.net/blog/mltfintro.php)
