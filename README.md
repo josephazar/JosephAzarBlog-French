@@ -46,7 +46,7 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 - [Types de variables](https://josephazar.net/blog/pyvartypes.php)
 - [Listes et dictionnaire](https://josephazar.net/blog/pyarrays.php)
 ##### ALGÈBRE LINÉAIRE
--[Introduction aux vecteurs](https://josephazar.net/blog/pyvectors1.php)
+- [Introduction aux vecteurs](https://josephazar.net/blog/pyvectors1.php)
 
 ### &#x1F534; R
 
