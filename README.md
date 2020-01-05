@@ -44,6 +44,7 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 ### &#x1F534; Python
 ##### PRINCIPES FONDAMENTAUX DE PYTHON
 - [Types de variables](https://josephazar.net/blog/pyvartypes.php)
+- [Listes et dictionnaire](https://josephazar.net/blog/pyarrays.php)
 ##### ALGÈBRE LINÉAIRE
 -[Introduction aux vecteurs](https://josephazar.net/blog/pyvectors1.php)
 
@@ -74,12 +75,23 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 - [Introduction à la régression linéaire simple](https://josephazar.net/blog/mlslreg.php)
 - [Utilisation de la régression linéaire simple pour les courbes exponentielles](https://josephazar.net/blog/mlslregexp.php)
 - [Introduction simple à la régression linéaire multiple](https://josephazar.net/blog/mlmlreg.php)
+- [Introduction simple à la régression polynomiale](https://josephazar.net/blog/mlpolyreg.php)
+- [Régularisation en régression linéaire](https://josephazar.net/blog/mllrreg.php)
 
 ##### RÉGRESSION LOGISTIQUE
 - [Un premier regard sur la classification linéaire et la régression logistique](https://josephazar.net/blog/mllogreg1.php)
 - [Introduction à la régression logistique avec Python](https://josephazar.net/blog/mllogreg2.php)
+
+##### RÉSEAUX DE NEURONES
+-[Introduction aux réseaux de neurones](https://josephazar.net/blog/mlann1.php)
+-[Implémentation d'un réseau de neurones à partir de zéro pour la classification binaire des images MNIST](https://josephazar.net/blog/mlann2.php)
+
 ##### TENSORFLOW
 - [Introduction à Tensorflow (partie 1)](https://josephazar.net/blog/mltfintro.php)
+
+##### RÉSEAUX GÉNÉRATIFS
+-[Développer un DCGAN pour les chiffres manuscrits MNIST](https://josephazar.net/blog/mlmnistdcgan.php)
+
 
 ### &#x1F534; Cybersecurity
 
