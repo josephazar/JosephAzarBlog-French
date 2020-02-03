@@ -85,12 +85,12 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 ##### RÉSEAUX DE NEURONES
 - [Introduction aux réseaux de neurones](https://josephazar.net/blog/mlann1.php)
 - [Implémentation d'un réseau de neurones à partir de zéro pour la classification binaire des images MNIST](https://josephazar.net/blog/mlann2.php)
-
+- [Prédire le diabète en utilisant l'apprentissage en profondeur sous Keras (pima indians diabetes)](https://josephazar.net/blog/mlann3.php)
 ##### TENSORFLOW
 - [Introduction à Tensorflow (partie 1)](https://josephazar.net/blog/mltfintro.php)
 
 ##### RÉSEAUX GÉNÉRATIFS
--[Développer un DCGAN pour les chiffres manuscrits MNIST](https://josephazar.net/blog/mlmnistdcgan.php)
+- [Développer un DCGAN pour les chiffres manuscrits MNIST](https://josephazar.net/blog/mlmnistdcgan.php)
 
 
 ### &#x1F534; Cybersecurity
