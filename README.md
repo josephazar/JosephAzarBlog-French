@@ -64,8 +64,11 @@ Vous trouverez ci-après des liens vers des articles publiés sur mon blog perso
 
 ### &#x1F534; Machine/Deep learning 
 ##### PRÉREQUIS
+###### STATISTIQUES DESCRIPTIVES
 - [Moyenne, Médiane, et Mode](https://josephazar.net/blog/stat1.php)
 
+###### PROBABILITÉ
+- [Probabilité de base: probabilité conjointe, marginale et conditionnelle | Indépendance](https://josephazar.net/blog/proba1.php)
 
 ##### PRINCIPES FONDAMENTAUX DU MACHINE LEARNING
 - [Qu'est-ce que le Machine Learning](https://josephazar.net/blog/mldef.php)
